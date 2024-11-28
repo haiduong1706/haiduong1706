@@ -1,3 +1,3 @@
-Hi, I am  Duong
+Hi, I am Duong - web developer
 
 
